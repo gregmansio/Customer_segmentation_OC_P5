@@ -1,6 +1,6 @@
 # Customer_segmentation_OC_P5
 Customer segmentation for Olist (Brazilian marketplace)
-This project consists if three scripts:
+This project consists if three scripts + an executive presentation:
 
 1 - EDA
 
@@ -8,4 +8,4 @@ This project consists if three scripts:
 
 3 - Maintenance schedule
 
-Finally, a presentation file (in french) summarize my work
+4 - A presentation file (ppt in french))
