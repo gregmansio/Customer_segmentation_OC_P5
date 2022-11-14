@@ -1,5 +1,5 @@
 # Customer_segmentation_OC_P5
-##titre Customer segmentation for Olist (Brazilian marketplace).  
+## Customer segmentation for Olist (Brazilian marketplace).  
 This project consists if three scripts + an executive presentation:  
 1. EDA  
 2. Customer segmentation with KMeans++ and DBSCAN  
